@@ -1,0 +1,9 @@
+baseURL = 'ilan-w.github.io'
+languageCode = 'en-us'
+title = 'yilan'
+theme = 'hugo-book'
+
+
+[params]
+BookTheme = 'auto'
+BookLogo = 'logo.png'
