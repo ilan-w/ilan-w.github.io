@@ -1,0 +1,15 @@
+{
+  "name": "yilan",
+  "short_name": "yilan",
+  "start_url": "/ilan-w.github.io/",
+  "scope": "/ilan-w.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/ilan-w.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
