@@ -1,5 +1,6 @@
 baseURL = 'ilan-w.github.io'
 languageCode = 'en-us'
+publishDir = '/docs'
 title = 'yilan'
 #theme = 'ananke'
 theme = 'hugo-book'

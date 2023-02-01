@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>ilan-w.github.io/docs/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>ilan-w.github.io/docs/%E6%97%A5%E5%BF%97/jan/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>ilan-w.github.io/docs/%E9%9A%8F%E7%AC%94/vtuber/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>ilan-w.github.io/categories/</loc>
+  </url><url>
+    <loc>ilan-w.github.io/tags/</loc>
+  </url><url>
+    <loc>ilan-w.github.io/</loc>
+  </url>
+</urlset>
