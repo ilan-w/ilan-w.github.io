@@ -1,4 +1,4 @@
-baseURL = 'ilan-w.github.io'
+baseURL = 'ilan-w.github.io/docs'
 languageCode = 'en-us'
 publishDir = 'docs'
 title = 'yilan'
