@@ -1,29 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>yilan</title>
-    <link>ilan-w.github.io/</link>
-    <description>Recent content on yilan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="ilan-w.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>ilan-w.github.io/docs/%E6%97%A5%E5%BF%97/jan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>ilan-w.github.io/docs/%E6%97%A5%E5%BF%97/jan/</guid>
-      <description>1.28#崴脚，休息
-1.29#日语计划 看书 一月总结 继续做ae 旋转ux </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>ilan-w.github.io/docs/%E9%9A%8F%E7%AC%94/vtuber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>ilan-w.github.io/docs/%E9%9A%8F%E7%AC%94/vtuber/</guid>
-      <description>皮套人#</description>
-    </item>
-    
-  </channel>
-</rss>
